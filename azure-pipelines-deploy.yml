@@ -1,5 +1,4 @@
 
-  jobs:
   - deployment: Deploy
     displayName: Deploy
     environment: 'development'
